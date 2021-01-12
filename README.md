@@ -9,3 +9,8 @@ Problem Statement: https://adventofcode.com/2020/day/1
 ```
 node day1/app.js
 ```
+
+## Day 2: Password Philosophy
+
+Problem Statement: https://adventofcode.com/2020/day/2
+
