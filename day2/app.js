@@ -21,7 +21,7 @@ input.forEach(e => {
     }
 
     // Part 2
-    // Since the data[2] should match only with one of the position in the password, I used xor boolean login using with Bitwise XOR (^) operator.
+    // Since the data[2] should match only with one of the position in the password, I used xor boolean logic using with Bitwise XOR (^) operator.
     if (data[3][data[0] - 1] === data[2] ^ data[3][data[1] - 1] === data[2]) {
         validPasswordPart2++;
     }

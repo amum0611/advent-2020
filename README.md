@@ -14,3 +14,6 @@ node day1/app.js
 
 Problem Statement: https://adventofcode.com/2020/day/2
 
+```
+node day2/app.js
+```
