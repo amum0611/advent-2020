@@ -17,3 +17,11 @@ Problem Statement: https://adventofcode.com/2020/day/2
 ```
 node day2/app.js
 ```
+
+## Day 3: Toboggan Trajectory
+
+Problem Statement: https://adventofcode.com/2020/day/3
+
+```
+node day3/app.js
+```
