@@ -25,3 +25,11 @@ Problem Statement: https://adventofcode.com/2020/day/3
 ```
 node day3/app.js
 ```
+
+## Day 4: Passport Processing
+
+Problem Statement: https://adventofcode.com/2020/day/4
+
+```
+node day4/app.js
+```
